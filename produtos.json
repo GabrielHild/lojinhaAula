@@ -1,0 +1,29 @@
+{
+    "produtos" : [
+        {
+            "title" : "Bateria pearl",
+            "description" : "Bateria pearl, personalisada transparente com leds internas, pratos sabian B9",
+            "img" : "produto.jpg",
+            "price" : 9.700
+        },
+        {
+            "title" : "Bateria pearl",
+            "description" : "Bateria pearl, personalisada transparente com leds internas, pratos sabian B9",
+            "img" : "produto.jpg",
+            "price" : 9.700
+        },
+        {
+            "title" : "Bateria pearl",
+            "description" : "Bateria pearl, personalisada transparente com leds internas, pratos sabian B9",
+            "img" : "produto.jpg",
+            "price" : 9.700
+        },
+        {
+            "title" : "Bateria pearl",
+            "description" : "Bateria pearl, personalisada transparente com leds internas, pratos sabian B9",
+            "img" : "produto.jpg",
+            "price" : 9.700
+        }
+
+    ]
+}

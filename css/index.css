@@ -1,0 +1,59 @@
+
+.navEdit{
+    background-color: #000000;
+}
+.container{
+    padding: 50px 0;
+    margin-bottom: 50vh;
+
+}
+.card{
+    margin:10px;
+    background-color: #cfcfcf;
+    border: 0;
+    padding: 5px;
+}
+.card-img-top{
+   border-radius: 5px;
+}
+hr{
+    padding: 2px;
+    margin: 5px;
+    color: #000000;
+}
+.btnValor{
+    background-color: transparent;
+    display: block;
+    padding: 0;
+    font-size: 15px;
+}
+.btnCompra{
+    background-color: #2d6474;
+    /* background-color: #545c5f; */
+    border: 0;
+    display: block;
+}
+.btnCompra:hover{
+    background-color: #25515f;
+    border-radius: 15px;
+}
+
+footer{
+    background-color: #141414;
+    width: 100%;
+    color: white;
+    padding-top: 50px;
+}
+footer h6{
+    background-color: #000000;
+    margin: 50px 0 0 0; 
+    padding: 10px;
+}
+.row{
+    --bs-gutter-x:0rem;
+}
+ @media screen and (max-width:1200px){
+    .container{
+        margin-bottom: 30vh ;
+    }
+} 

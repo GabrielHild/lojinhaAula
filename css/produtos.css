@@ -1,0 +1,30 @@
+.table{
+  margin: 2vh 0 30vh 0;
+}
+.btnSalvar:hover{
+    border: 1px solid rgba(10, 99, 44, 0.959); 
+    background-color: aliceblue;
+    color: hsl(0, 0%, 0%);
+}
+.price, .img{
+    display: inline-block;
+}
+.row{
+    --bs-gutter-x:0rem;
+}
+ @media screen and (max-width:1200px){
+    .container{
+        margin-bottom: 30vh ;
+    }
+} 
+footer{
+    background-color: #141414;
+    width: 100%;
+    color: white;
+    padding-top: 50px;
+}
+footer h6{
+    background-color: #000000;
+    margin: 50px 0 0 0; 
+    padding: 10px;
+}
